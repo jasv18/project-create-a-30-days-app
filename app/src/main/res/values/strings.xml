@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">30 days app</string>
+    <string name="expand_button_text">saber mas o menos acerca de los postres</string>
+    <string name="day_text">Día %1$d</string>
+    <string name="tab">\u0009</string>
+
+    <integer name="day1">1</integer>
+    <string name="name1">Tarta de Manzana</string>
+    <string name="goal1">Un clásico para comenzar el mes con sabores cálidos.</string>
+    <string name="description1">La tarta de manzana combina una masa crujiente con un relleno dulce de manzanas cocidas con canela.</string>
+
+    <integer name="day2">2</integer>
+    <string name="name2">Tiramisú</string>
+    <string name="goal2">Para los amantes del café y el mascarpone.</string>
+    <string name="description2">Postre italiano en capas con bizcochos empapados en café, crema de mascarpone y cacao en polvo.</string>
+
+    <integer name="day3">3</integer>
+    <string name="name3">Flan de Caramelo</string>
+    <string name="goal3">Perfecto para un final de comida ligero.</string>
+    <string name="description3">Postre de huevo cremoso con una capa superior de caramelo líquido.</string>
+
+    <integer name="day4">4</integer>
+    <string name="name4">Cheesecake de Fresa</string>
+    <string name="goal4">Ideal para los que buscan algo fresco.</string>
+    <string name="description4">Tarta de queso suave sobre una base de galleta, cubierta con fresas frescas.</string>
+
+    <integer name="day5">5</integer>
+    <string name="name5">Brownies de Chocolate</string>
+    <string name="goal5">Un placer para los chocoadictos.</string>
+    <string name="description5">Pastelitos densos y húmedos de chocolate, a menudo con nueces.</string>
+
+    <integer name="day6">6</integer>
+    <string name="name6">Macarons</string>
+    <string name="goal6">Elegante y sofisticado.</string>
+    <string name="description6">Galletas francesas crujientes por fuera y suaves por dentro, con un relleno cremoso.</string>
+
+    <integer name="day7">7</integer>
+    <string name="name7">Crème Brûlée</string>
+    <string name="goal7">Para impresionar con un toque crujiente.</string>
+    <string name="description7">Crema de vainilla cubierta con una capa de caramelo crujiente.</string>
+
+    <integer name="day8">8</integer>
+    <string name="name8">Panna Cotta</string>
+    <string name="goal8">Ligeramente dulce y refrescante.</string>
+    <string name="description8">Postre italiano cremoso, generalmente servido con salsa de frutas.</string>
+
+    <integer name="day9">9</integer>
+    <string name="name9">Pastel Tres Leches</string>
+    <string name="goal9">Un sabor latinoamericano irresistible.</string>
+    <string name="description9">Bizcocho empapado en tres tipos de leche, coronado con crema batida.</string>
+
+    <integer name="day10">10</integer>
+    <string name="name10">Gelato de Pistacho</string>
+    <string name="goal10">Una alternativa al helado más cremosa.</string>
+    <string name="description10">Helado italiano denso y cremoso hecho con pistachos reales.</string>
+
+    <integer name="day11">11</integer>
+    <string name="name11">Pavlova</string>
+    <string name="goal11">Ligero y lleno de frutas.</string>
+    <string name="description11">Merengue crujiente por fuera y suave por dentro, cubierto con crema y frutas frescas.</string>
+
+    <integer name="day12">12</integer>
+    <string name="name12">Cannoli</string>
+    <string name="goal12">Un crujido dulce.</string>
+    <string name="description12">Tubos de masa frita rellenos con una mezcla dulce de ricotta.</string>
+
+    <integer name="day13">13</integer>
+    <string name="name13">Churros con Chocolate</string>
+    <string name="goal13">Perfecto para una tarde fría.</string>
+    <string name="description13">Masa frita espolvoreada con azúcar y canela, acompañada de chocolate caliente.</string>
+
+    <integer name="day14">14</integer>
+    <string name="name14">Baklava</string>
+    <string name="goal14">Una explosión de sabores del Medio Oriente.</string>
+    <string name="description14">Capas de masa filo con nueces y miel.</string>
+
+    <integer name="day15">15</integer>
+    <string name="name15">Mousse de Chocolate</string>
+    <string name="goal15">Para los que prefieren texturas suaves.</string>
+    <string name="description15">Postre esponjoso de chocolate con una textura ligera y aireada.</string>
+
+    <integer name="day16">16</integer>
+    <string name="name16">Profiteroles</string>
+    <string name="goal16">Pequeños bocados de felicidad.</string>
+    <string name="description16">Bolitas de masa choux rellenas de crema y cubiertas de chocolate.</string>
+
+    <integer name="day17">17</integer>
+    <string name="name17">Pastel de Zanahoria</string>
+    <string name="goal17">Dulce y ligeramente especiado.</string>
+    <string name="description17">Pastel húmedo de zanahoria con nueces y un glaseado de queso crema.</string>
+
+    <integer name="day18">18</integer>
+    <string name="name18">Crêpes Suzette</string>
+    <string name="goal18">Un toque francés para el desayuno o postre.</string>
+    <string name="description18">Crepas finas bañadas en una salsa de mantequilla, azúcar y licor de naranja.</string>
+
+    <integer name="day19">19</integer>
+    <string name="name19">Gelatina de Frutas</string>
+    <string name="goal19">Ligera y colorida.</string>
+    <string name="description19">Postre de gelatina con trozos de frutas frescas.</string>
+
+    <integer name="day20">20</integer>
+    <string name="name20">Eclairs</string>
+    <string name="goal20">Para un antojo de pastelería francesa.</string>
+    <string name="description20">Masa choux rellena de crema y cubierta de glaseado de chocolate.</string>
+
+    <integer name="day21">21</integer>
+    <string name="name21">Tarta de Limón</string>
+    <string name="goal21">Refrescante y cítrica.</string>
+    <string name="description21">Base de masa crujiente con un relleno de crema de limón.</string>
+
+    <integer name="day22">22</integer>
+    <string name="name22">Soufflé de Chocolate</string>
+    <string name="goal22">Sorprende con su textura aireada.</string>
+    <string name="description22">Postre caliente de chocolate que se eleva al hornear.</string>
+
+    <integer name="day23">23</integer>
+    <string name="name23">Galletas de Avena y Pasas</string>
+    <string name="goal23">Un toque saludable.</string>
+    <string name="description23">Galletas suaves y masticables con avena y pasas.</string>
+
+    <integer name="day24">24</integer>
+    <string name="name24">Helado de Vainilla</string>
+    <string name="goal24">Clásico y versátil.</string>
+    <string name="description24">Helado cremoso de vainilla, perfecto solo o acompañado.</string>
+
+    <integer name="day25">25</integer>
+    <string name="name25">Tiramisu de Té Matcha</string>
+    <string name="goal25">Un giro moderno al clásico.</string>
+    <string name="description25">Bizcochos con té verde matcha y crema de mascarpone.</string>
+
+    <integer name="day26">26</integer>
+    <string name="name26">Pastel de Chocolate y Frambuesas</string>
+    <string name="goal26">Rico y afrutado.</string>
+    <string name="description26">Pastel de chocolate oscuro con frambuesas frescas.</string>
+
+    <integer name="day27">27</integer>
+    <string name="name27">Trifle de Frutas</string>
+    <string name="goal27">Capas de colores y sabores.</string>
+    <string name="description27">Capas de bizcocho, crema, gelatina y frutas.</string>
+
+    <integer name="day28">28</integer>
+    <string name="name28">Pudding de Chía</string>
+    <string name="goal28">Saludable y delicioso.</string>
+    <string name="description28">Semillas de chía en leche vegetal, endulzadas y con frutas.</string>
+
+    <integer name="day29">29</integer>
+    <string name="name29">Alfajores</string>
+    <string name="goal29">Un dulce bocado sudamericano.</string>
+    <string name="description29">Galletas de maicena rellenas de dulce de leche y espolvoreadas con coco.</string>
+
+    <integer name="day30">30</integer>
+    <string name="name30">Mousse de Mango</string>
+    <string name="goal30">Dulce y tropical.</string>
+    <string name="description30">Mousse suave de mango con un toque de lima.</string>
+</resources>
